@@ -26,7 +26,7 @@ document.querySelectorAll(".card").forEach(card => {
     }
   });
   // Typewriter effect
-  const heroText = "Welcome to the Future of Web Design";
+  const heroText = "Welcome to Yusuf Umarfaruk Adebayo's Digital Space - Where ideas comes to life";
   let index = 0;
   
   function typeWriter() {

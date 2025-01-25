@@ -21,7 +21,7 @@
   }
   
   .contact-container {
-    background-color: #00bcd4;
+    background-color: green;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     border-radius: 12px;
     width: 100%;
@@ -40,7 +40,7 @@
   .contact-container p {
     font-size: 1rem;
     text-align: center;
-    color: #666;
+    color: white;
     margin-bottom: 2rem;
   }
   

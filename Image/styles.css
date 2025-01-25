@@ -29,7 +29,7 @@
     }
 
     header {
-        background: linear-gradient(to right, #007BFF, #6610f2);
+        background-color: darkblue;
       }
     
       footer {
@@ -253,8 +253,8 @@
         flex-direction: column;
         text-align: center;
         padding: 40px 20px;
-        background:url('pexels-francesco-ungaro-2325447.jpg') no-repeat center/cover;
-        color: rgb(63, 4, 4);
+        background:url('yooo.jpeg') no-repeat center/cover;
+        color: white;
         height: 60hv;
       }
     
