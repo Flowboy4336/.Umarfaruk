@@ -1,2 +1,0 @@
-# .Umarfaruk
-# .Umarfaruk
